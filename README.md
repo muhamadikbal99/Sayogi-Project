@@ -44,11 +44,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Creator
-1. Ardiansyah (NIM 206230009)
-2. Muhamad Ikbal Maulana (NIM 206230011)
+<p>Creator
+    
+ Muhamad Ikbal Maulana (NIM 206230011)<p>
 
 <p>Program Studi Teknik Industri Pertanian<br>Universitas Linggabuana PGRI Sukabumi</p>
 
-If you have any questions or suggestions, feel free to open an issue or contact us at [tip@unlip.ac.id](mailto:your-email@tip@unlip.ac.id).
+If you have any questions or suggestions, feel free to open an issue or contact us at [muhamadikbalmaulana3111@gmail.com(mailto:your-email@muhamadikbalmaulana3111@gmail.com).
 
