@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p>Creator<br>
 
     
-Muhammad Ikbal Maulana </p> 
+M. Ikbal Maulana </p> 
 
 
 
@@ -87,5 +87,5 @@ Muhammad Ikbal Maulana </p>
     Universitas Linggabuana PGRI Sukabumi</p>
 
 
-If you have any questions or suggestions, feel free to open an issue or contact us at (mailto: muhamadikbalmaulana3111@gmail.com).
+If you have any questions or suggestions, feel free to open an issue or contact us at (mail to: muhamadikbalmaulana3111@gmail.com ).
 
